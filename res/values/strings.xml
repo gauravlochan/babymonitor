@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Welcome to the Baby Monitor Application</string>
+    <string name="app_name">BabyMonitor</string>
+    <string name="run_as_transmitter">Run as Transmitter</string>
+    <string name="run_as_receiver">Run as Receiver</string>
+    <string name="tx_name">Transmitter Mode</string>
+    <string name="tx_get_ip">Getting IP address...</string>
+    <string name="tx_start_recording">Start Transmitting</string>
+    <string name="tx_stop_recording">Stop Transmitting</string>
+    
+    <string name="rx_name">Receiver Mode</string>
+      
+    
+</resources>
